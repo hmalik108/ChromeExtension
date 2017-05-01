@@ -1,0 +1,13 @@
+{
+    "manifest_version":2,
+    
+    "name":"Pluralsight Helper",
+    "description":"Adds functionality to the Pluralsight website.",
+    "version":"1.0",
+    
+    "page_action":{
+        "default_icon":"icon.png",
+        "default_title":"Pluralsight Helper",
+        "defaukt_popup":"popup.html"
+    }
+}
